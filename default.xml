@@ -1,0 +1,7 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<manifest>
+	<remote name="origin" fetch="https://github.com/TaurusLi/TestRepo"/>
+	<default name="origin" revision="main"/>
+	<project name="example/example1" path="example/example1"/>
+	<project name="example/example2" path="example/example2"/>
+</manifest>
